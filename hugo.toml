@@ -2,7 +2,9 @@ baseURL = "https://blogautomation.github.io/fatocurioso/"
 languageCode = "pt-BR"
 title = "Fato Curioso"
 theme = "PaperMod"
-paginate = 10
+
+[pagination]
+  pagerSize = 10
 
 [params]
   description = "Fatos surpreendentes, curiosidades incriveis e descobertas fascinantes sobre ciencia, historia e natureza."
