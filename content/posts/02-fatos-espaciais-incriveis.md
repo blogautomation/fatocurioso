@@ -1,6 +1,6 @@
 ---
 title: "10 Fatos Sobre o Espaco que Vao Explodir Sua Mente"
-date: 2026-01-01T00:00:00+00:00
+date: 2026-03-29T14:05:03+00:00
 draft: false
 tags: ["espaco", "astronomia", "ciencia"]
 description: "10 Fatos Sobre o Espaco que Vao Explodir Sua Mente"
