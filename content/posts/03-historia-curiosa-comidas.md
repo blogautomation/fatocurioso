@@ -1,6 +1,6 @@
 ---
 title: "A Origem Surpreendente de 8 Comidas do Dia a Dia"
-date: 2026-01-01T00:00:00+00:00
+date: 2026-03-30T15:57:22+00:00
 draft: false
 tags: ["historia", "comida", "curiosidades"]
 description: "A Origem Surpreendente de 8 Comidas do Dia a Dia"
