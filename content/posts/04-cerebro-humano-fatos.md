@@ -1,6 +1,6 @@
 ---
 title: "9 Coisas que Seu Cerebro Faz Sem Voce Perceber"
-date: 2026-01-01T00:00:00+00:00
+date: 2026-03-31T15:54:13+00:00
 draft: false
 tags: ["cerebro", "psicologia", "ciencia"]
 description: "9 Coisas que Seu Cerebro Faz Sem Voce Perceber"
