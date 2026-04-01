@@ -1,6 +1,6 @@
 ---
 title: "10 Leis Mais Estranhas que Existem no Mundo"
-date: 2026-01-01T00:00:00+00:00
+date: 2026-04-01T15:58:47+00:00
 draft: false
 tags: ["leis", "paises", "curiosidades"]
 description: "10 Leis Mais Estranhas que Existem no Mundo"
