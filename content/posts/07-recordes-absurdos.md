@@ -1,6 +1,6 @@
 ---
 title: "12 Recordes Mundiais Tao Absurdos que Parecem Mentira"
-date: 2026-01-01T00:00:00+00:00
+date: 2026-04-03T14:29:36+00:00
 draft: false
 tags: ["recordes", "curiosidades", "guinness"]
 description: "12 Recordes Mundiais Tao Absurdos que Parecem Mentira"
