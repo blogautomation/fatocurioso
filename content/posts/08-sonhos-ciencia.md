@@ -1,6 +1,6 @@
 ---
 title: "Por Que Sonhamos? 7 Fatos Cientificos Sobre os Sonhos"
-date: 2026-01-01T00:00:00+00:00
+date: 2026-04-04T14:04:29+00:00
 draft: false
 tags: ["sonhos", "cerebro", "ciencia"]
 description: "Por Que Sonhamos? 7 Fatos Cientificos Sobre os Sonhos"
