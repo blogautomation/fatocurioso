@@ -1,6 +1,6 @@
 ---
 title: "8 Coincidencias Historicas Tao Incriveis que Parecem Invencao"
-date: 2026-01-01T00:00:00+00:00
+date: 2026-04-05T14:05:45+00:00
 draft: false
 tags: ["historia", "coincidencias", "fatos"]
 description: "8 Coincidencias Historicas Tao Incriveis que Parecem Invencao"
