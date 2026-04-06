@@ -1,6 +1,6 @@
 ---
 title: "O Corpo Humano em Numeros: 15 Estatisticas Incriveis"
-date: 2026-01-01T00:00:00+00:00
+date: 2026-04-06T14:38:35+00:00
 draft: false
 tags: ["corpo humano", "numeros", "ciencia"]
 description: "O Corpo Humano em Numeros: 15 Estatisticas Incriveis"
