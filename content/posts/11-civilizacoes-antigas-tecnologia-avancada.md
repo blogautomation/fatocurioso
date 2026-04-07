@@ -1,6 +1,6 @@
 ---
 title: "10 Tecnologias de Civilizacoes Antigas Que a Ciencia Ainda Nao Explica"
-date: 2026-01-01T00:00:00+00:00
+date: 2026-04-07T16:16:19+00:00
 draft: false
 tags: ["historia", "civilizacoes antigas", "tecnologia", "misterios"]
 description: "10 Tecnologias de Civilizacoes Antigas Que a Ciencia Ainda Nao Explica"
