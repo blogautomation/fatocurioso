@@ -6,7 +6,7 @@ tags: ["mitos", "ciencia", "educacao", "fatos"]
 description: "10 Mitos Cientificos Que Quase Todo Mundo Ainda Acredita em 2026"
 
 cover:
-  image: "https://images.pexels.com/photos/29509535/pexels-photo-29509535.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  image: "https://images.pexels.com/photos/2249538/pexels-photo-2249538.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   alt: "10 Mitos Cientificos Que Quase Todo Mundo Ainda Acredita em 2026"
   hidden: false
 ---
