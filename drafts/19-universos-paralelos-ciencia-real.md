@@ -6,7 +6,7 @@ tags: ["fisica", "universo", "ciencia", "teoria"]
 description: "Universos Paralelos: Ficcao Cientifica ou Ciencia Real?"
 
 cover:
-  image: "https://images.pexels.com/photos/19376392/pexels-photo-19376392.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  image: "https://images.pexels.com/photos/32961169/pexels-photo-32961169.png?auto=compress&cs=tinysrgb&h=650&w=940"
   alt: "Universos Paralelos: Ficcao Cientifica ou Ciencia Real?"
   hidden: false
 ---
