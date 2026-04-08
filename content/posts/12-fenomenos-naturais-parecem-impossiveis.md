@@ -1,6 +1,6 @@
 ---
 title: "12 Fenomenos Naturais Tao Estranhos Que Parecem Impossiveis"
-date: 2026-01-01T00:00:00+00:00
+date: 2026-04-08T16:20:44+00:00
 draft: false
 tags: ["natureza", "fenomenos", "ciencia", "curiosidades"]
 description: "12 Fenomenos Naturais Tao Estranhos Que Parecem Impossiveis"
