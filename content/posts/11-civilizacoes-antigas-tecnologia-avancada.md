@@ -6,7 +6,7 @@ tags: ["historia", "civilizacoes antigas", "tecnologia", "misterios"]
 description: "10 Tecnologias de Civilizacoes Antigas Que a Ciencia Ainda Nao Explica"
 
 cover:
-  image: "https://images.pexels.com/photos/32561490/pexels-photo-32561490.png?auto=compress&cs=tinysrgb&h=650&w=940"
+  image: "https://images.pexels.com/photos/24596680/pexels-photo-24596680.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   alt: "10 Tecnologias de Civilizacoes Antigas Que a Ciencia Ainda Nao Explica"
   hidden: false
 ---
