@@ -4,6 +4,11 @@ date: 2026-04-01T15:58:47+00:00
 draft: false
 tags: ["leis", "paises", "curiosidades"]
 description: "10 Leis Mais Estranhas que Existem no Mundo"
+
+cover:
+  image: "https://images.pexels.com/photos/36507928/pexels-photo-36507928.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  alt: "10 Leis Mais Estranhas que Existem no Mundo"
+  hidden: false
 ---
 
 Cada pais tem suas proprias regras, e algumas sao tao bizarras que parecem piada. Mas sao reais.
