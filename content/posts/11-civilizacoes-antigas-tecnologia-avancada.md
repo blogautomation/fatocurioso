@@ -4,6 +4,11 @@ date: 2026-04-07T16:16:19+00:00
 draft: false
 tags: ["historia", "civilizacoes antigas", "tecnologia", "misterios"]
 description: "10 Tecnologias de Civilizacoes Antigas Que a Ciencia Ainda Nao Explica"
+
+cover:
+  image: "https://images.pexels.com/photos/32561490/pexels-photo-32561490.png?auto=compress&cs=tinysrgb&h=650&w=940"
+  alt: "10 Tecnologias de Civilizacoes Antigas Que a Ciencia Ainda Nao Explica"
+  hidden: false
 ---
 
 Quando pensamos em civilizacoes antigas, imaginamos pessoas primitivas com ferramentas rudimentares. Mas muitas dessas civilizacoes dominavam tecnologias que desafiam nossa compreensao ate hoje. Algumas de suas conquistas seriam dificeis de replicar mesmo com equipamentos modernos.
