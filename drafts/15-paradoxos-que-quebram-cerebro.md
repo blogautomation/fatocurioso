@@ -4,6 +4,11 @@ date: 2026-01-01T00:00:00+00:00
 draft: false
 tags: ["filosofia", "logica", "paradoxos", "ciencia"]
 description: "7 Paradoxos Que Vao Quebrar Seu Cerebro (e a Ciencia Nao Resolveu)"
+
+cover:
+  image: "https://images.pexels.com/photos/18530624/pexels-photo-18530624.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  alt: "7 Paradoxos Que Vao Quebrar Seu Cerebro (e a Ciencia Nao Resolveu)"
+  hidden: false
 ---
 
 Um paradoxo e uma afirmacao que parece logica mas leva a uma contradicao impossivel. Alguns dos maiores genios da historia quebraram a cabeca com esses problemas, e muitos continuam sem solucao definitiva.
