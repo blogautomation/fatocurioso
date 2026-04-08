@@ -6,7 +6,7 @@ tags: ["oceano", "misterios", "ciencia"]
 description: "8 Misterios do Oceano que a Ciencia Ainda Nao Explicou"
 
 cover:
-  image: "https://images.pexels.com/photos/8394740/pexels-photo-8394740.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  image: "https://images.pexels.com/photos/32179280/pexels-photo-32179280.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   alt: "8 Misterios do Oceano que a Ciencia Ainda Nao Explicou"
   hidden: false
 ---
