@@ -4,6 +4,11 @@ date: 2026-01-01T00:00:00+00:00
 draft: false
 tags: ["ciencia", "experimentos", "historia", "curiosidades"]
 description: "Os 10 Experimentos Cientificos Mais Loucos Ja Realizados na Historia"
+
+cover:
+  image: "https://images.pexels.com/photos/3806749/pexels-photo-3806749.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  alt: "Os 10 Experimentos Cientificos Mais Loucos Ja Realizados na Historia"
+  hidden: false
 ---
 
 A historia da ciencia e cheia de experimentos brilhantes. Mas tambem e cheia de experimentos tao estranhos que parece que os cientistas perderam a nocao. Alguns eram geniais disfarçados de loucura. Outros eram apenas loucura mesmo.
