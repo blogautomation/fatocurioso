@@ -6,7 +6,7 @@ tags: ["arqueologia", "historia", "descobertas", "acidental"]
 description: "8 Grandes Descobertas Arqueologicas Que Foram Completamente Acidentais"
 
 cover:
-  image: "https://images.pexels.com/photos/10831266/pexels-photo-10831266.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  image: "https://images.pexels.com/photos/205414/pexels-photo-205414.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   alt: "8 Grandes Descobertas Arqueologicas Que Foram Completamente Acidentais"
   hidden: false
 ---
