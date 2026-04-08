@@ -4,6 +4,11 @@ date: 2026-03-28T02:56:00+00:00
 draft: false
 tags: ["curiosidades", "fatos"]
 description: "Por Que o Ceu e Azul? A Ciencia Por Tras das Cores do Ceu"
+
+cover:
+  image: "https://images.pexels.com/photos/35073913/pexels-photo-35073913.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  alt: "Por Que o Ceu e Azul? A Ciencia Por Tras das Cores do Ceu"
+  hidden: false
 ---
 
 ![Por Que o Ceu e Azul? A Ciencia Por Tras das Cores do Ceu](https://images.pexels.com/photos/35418655/pexels-photo-35418655.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
