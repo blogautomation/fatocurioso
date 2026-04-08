@@ -4,6 +4,11 @@ date: 2026-01-01T00:00:00+00:00
 draft: false
 tags: ["mitos", "ciencia", "educacao", "fatos"]
 description: "10 Mitos Cientificos Que Quase Todo Mundo Ainda Acredita em 2026"
+
+cover:
+  image: "https://images.pexels.com/photos/29509535/pexels-photo-29509535.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  alt: "10 Mitos Cientificos Que Quase Todo Mundo Ainda Acredita em 2026"
+  hidden: false
 ---
 
 A ciencia avanca, mas mitos cientificos sao incrivelmente resistentes. Voce provavelmente acredita em pelo menos metade dos mitos desta lista. Nao se sinta mal: eles sao repetidos em escolas, filmes e ate por profissionais que deveriam saber melhor.
