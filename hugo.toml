@@ -1,3 +1,40 @@
+baseURL = "https://blogautomation.github.io/fatocurioso/"
+languageCode = "pt-BR"
+title = "Fato Curioso"
+theme = "PaperMod"
+
+[pagination]
+  pagerSize = 10
+
+[params]
+  description = "Curiosidades, fatos cientificos e historias surpreendentes sobre ciencia, natureza e o mundo."
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  defaultTheme = "auto"
+
+[params.homeInfoParams]
+  Title = "Fato Curioso"
+  Content = "Curiosidades, fatos cientificos e historias surpreendentes sobre ciencia, natureza e o mundo."
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[[menu.main]]
+  name = "Sobre"
+  url = "/sobre/"
+  weight = 1
+
+[[menu.main]]
+  name = "Contato"
+  url = "/contato/"
+  weight = 2
+
+[[menu.main]]
+  name = "Privacidade"
+  url = "/privacidade/"
+  weight = 3
 
 [[menu.main]]
   name = "Termos"
