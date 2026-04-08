@@ -6,7 +6,7 @@ tags: ["cerebro", "ilusoes", "neurociencia", "percepcao"]
 description: "Como Seu Cerebro Te Engana: A Ciencia Por Tras das Ilusoes de Otica"
 
 cover:
-  image: "https://images.pexels.com/photos/7430266/pexels-photo-7430266.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  image: "https://images.pexels.com/photos/10915659/pexels-photo-10915659.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   alt: "Como Seu Cerebro Te Engana: A Ciencia Por Tras das Ilusoes de Otica"
   hidden: false
 ---
