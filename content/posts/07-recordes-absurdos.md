@@ -4,6 +4,11 @@ date: 2026-04-03T14:29:36+00:00
 draft: false
 tags: ["recordes", "curiosidades", "guinness"]
 description: "12 Recordes Mundiais Tao Absurdos que Parecem Mentira"
+
+cover:
+  image: "https://images.pexels.com/photos/36729922/pexels-photo-36729922.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  alt: "12 Recordes Mundiais Tao Absurdos que Parecem Mentira"
+  hidden: false
 ---
 
 O Guinness Book registra recordes incriveis e alguns sao tao absurdos que e dificil acreditar.
