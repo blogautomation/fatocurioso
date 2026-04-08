@@ -4,6 +4,11 @@ date: 2026-01-01T00:00:00+00:00
 draft: false
 tags: ["alimentacao", "saude", "curiosidades", "ciencia"]
 description: "8 Alimentos do Dia a Dia Que Podem Ser Venenosos Se Preparados Errado"
+
+cover:
+  image: "https://images.pexels.com/photos/34092708/pexels-photo-34092708.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  alt: "8 Alimentos do Dia a Dia Que Podem Ser Venenosos Se Preparados Errado"
+  hidden: false
 ---
 
 Voce sabia que varios alimentos comuns da sua cozinha contem substancias toxicas? Nao se preocupe, quando preparados corretamente sao perfeitamente seguros. Mas e importante saber quais cuidados tomar.
