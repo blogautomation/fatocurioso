@@ -4,6 +4,11 @@ date: 2026-01-01T00:00:00+00:00
 draft: false
 tags: ["matematica", "natureza", "padroes", "ciencia"]
 description: "A Matematica Escondida na Natureza Que Voce Nunca Percebeu"
+
+cover:
+  image: "https://images.pexels.com/photos/16084641/pexels-photo-16084641.png?auto=compress&cs=tinysrgb&h=650&w=940"
+  alt: "A Matematica Escondida na Natureza Que Voce Nunca Percebeu"
+  hidden: false
 ---
 
 A natureza e surpreendentemente matematica. Padroes numericos aparecem em flores, conchas, galaxias e ate no seu corpo. Nao e coincidencia: as mesmas equacoes que governam a fisica governam o crescimento de tudo que e vivo.
