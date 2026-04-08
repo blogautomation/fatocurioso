@@ -4,6 +4,11 @@ date: 2026-04-06T14:38:35+00:00
 draft: false
 tags: ["corpo humano", "numeros", "ciencia"]
 description: "O Corpo Humano em Numeros: 15 Estatisticas Incriveis"
+
+cover:
+  image: "https://images.pexels.com/photos/36071198/pexels-photo-36071198.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  alt: "O Corpo Humano em Numeros: 15 Estatisticas Incriveis"
+  hidden: false
 ---
 
 Nosso corpo e uma maquina extraordinaria. Veja 15 numeros impressionantes sobre ele.
