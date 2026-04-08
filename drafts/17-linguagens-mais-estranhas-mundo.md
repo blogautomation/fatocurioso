@@ -4,6 +4,11 @@ date: 2026-01-01T00:00:00+00:00
 draft: false
 tags: ["linguagem", "cultura", "curiosidades", "comunicacao"]
 description: "As Linguagens Mais Estranhas do Mundo Que Voce Nao Vai Acreditar Que Existem"
+
+cover:
+  image: "https://images.pexels.com/photos/14846187/pexels-photo-14846187.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  alt: "As Linguagens Mais Estranhas do Mundo Que Voce Nao Vai Acreditar Que Existem"
+  hidden: false
 ---
 
 Existem cerca de 7000 idiomas no mundo, e alguns deles desafiam completamente nossa ideia do que uma lingua pode ser. De idiomas assoviados a linguas sem palavras para cores, a diversidade linguistica humana e surpreendente.
