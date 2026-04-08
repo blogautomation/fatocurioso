@@ -4,6 +4,11 @@ date: 2026-01-01T00:00:00+00:00
 draft: false
 tags: ["fisica", "universo", "ciencia", "teoria"]
 description: "Universos Paralelos: Ficcao Cientifica ou Ciencia Real?"
+
+cover:
+  image: "https://images.pexels.com/photos/19376392/pexels-photo-19376392.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  alt: "Universos Paralelos: Ficcao Cientifica ou Ciencia Real?"
+  hidden: false
 ---
 
 A ideia de universos paralelos saiu dos quadrinhos e entrou nos laboratorios de fisica. Nao e mais apenas ficcao: teorias cientificas serias sugerem que nosso universo pode ser apenas um entre infinitos. Mas quanto disso e ciencia real e quanto e especulacao?
