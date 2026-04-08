@@ -4,6 +4,11 @@ date: 2026-03-29T14:05:03+00:00
 draft: false
 tags: ["espaco", "astronomia", "ciencia"]
 description: "10 Fatos Sobre o Espaco que Vao Explodir Sua Mente"
+
+cover:
+  image: "https://images.pexels.com/photos/36507928/pexels-photo-36507928.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  alt: "10 Fatos Sobre o Espaco que Vao Explodir Sua Mente"
+  hidden: false
 ---
 
 O universo e tao vasto e estranho que ate os cientistas ficam surpresos. Confira 10 fatos de tirar o folego.
