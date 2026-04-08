@@ -6,7 +6,7 @@ tags: ["filosofia", "logica", "paradoxos", "ciencia"]
 description: "7 Paradoxos Que Vao Quebrar Seu Cerebro (e a Ciencia Nao Resolveu)"
 
 cover:
-  image: "https://images.pexels.com/photos/18530624/pexels-photo-18530624.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  image: "https://images.pexels.com/photos/5772965/pexels-photo-5772965.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   alt: "7 Paradoxos Que Vao Quebrar Seu Cerebro (e a Ciencia Nao Resolveu)"
   hidden: false
 ---
