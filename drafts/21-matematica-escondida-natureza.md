@@ -6,7 +6,7 @@ tags: ["matematica", "natureza", "padroes", "ciencia"]
 description: "A Matematica Escondida na Natureza Que Voce Nunca Percebeu"
 
 cover:
-  image: "https://images.pexels.com/photos/16084641/pexels-photo-16084641.png?auto=compress&cs=tinysrgb&h=650&w=940"
+  image: "https://images.pexels.com/photos/13860281/pexels-photo-13860281.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   alt: "A Matematica Escondida na Natureza Que Voce Nunca Percebeu"
   hidden: false
 ---
