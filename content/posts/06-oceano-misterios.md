@@ -4,6 +4,11 @@ date: 2026-04-02T15:38:24+00:00
 draft: false
 tags: ["oceano", "misterios", "ciencia"]
 description: "8 Misterios do Oceano que a Ciencia Ainda Nao Explicou"
+
+cover:
+  image: "https://images.pexels.com/photos/8394740/pexels-photo-8394740.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  alt: "8 Misterios do Oceano que a Ciencia Ainda Nao Explicou"
+  hidden: false
 ---
 
 Conhecemos melhor a superficie de Marte do que o fundo dos nossos oceanos. Confira 8 misterios submarinos.
