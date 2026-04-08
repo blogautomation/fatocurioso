@@ -4,6 +4,11 @@ date: 2026-01-01T00:00:00+00:00
 draft: false
 tags: ["arqueologia", "historia", "descobertas", "acidental"]
 description: "8 Grandes Descobertas Arqueologicas Que Foram Completamente Acidentais"
+
+cover:
+  image: "https://images.pexels.com/photos/10831266/pexels-photo-10831266.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  alt: "8 Grandes Descobertas Arqueologicas Que Foram Completamente Acidentais"
+  hidden: false
 ---
 
 Algumas das maiores descobertas da historia da arqueologia nao foram feitas por cientistas com ferramentas sofisticadas. Foram feitas por fazendeiros arando terra, criancas brincando em cavernas e operarios construindo estradas. O acaso as vezes e o melhor arqueologo.
