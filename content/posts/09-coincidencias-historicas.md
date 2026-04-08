@@ -4,6 +4,11 @@ date: 2026-04-05T14:05:45+00:00
 draft: false
 tags: ["historia", "coincidencias", "fatos"]
 description: "8 Coincidencias Historicas Tao Incriveis que Parecem Invencao"
+
+cover:
+  image: "https://images.pexels.com/photos/17270458/pexels-photo-17270458.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  alt: "8 Coincidencias Historicas Tao Incriveis que Parecem Invencao"
+  hidden: false
 ---
 
 A historia esta cheia de coincidencias tao improvaveis que desafiam a logica.
