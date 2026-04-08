@@ -6,7 +6,7 @@ tags: ["linguagem", "cultura", "curiosidades", "comunicacao"]
 description: "As Linguagens Mais Estranhas do Mundo Que Voce Nao Vai Acreditar Que Existem"
 
 cover:
-  image: "https://images.pexels.com/photos/14846187/pexels-photo-14846187.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  image: "https://images.pexels.com/photos/7695084/pexels-photo-7695084.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   alt: "As Linguagens Mais Estranhas do Mundo Que Voce Nao Vai Acreditar Que Existem"
   hidden: false
 ---
