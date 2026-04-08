@@ -18,6 +18,11 @@ theme = "PaperMod"
   Title = "Fato Curioso"
   Content = "Fatos surpreendentes, curiosidades incriveis e descobertas fascinantes sobre ciencia, historia e natureza."
 
+[params.cover]
+  hidden = false
+  hiddenInList = false
+  hiddenInSingle = false
+
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
