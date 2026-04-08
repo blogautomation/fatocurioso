@@ -4,6 +4,11 @@ date: 2026-03-31T15:54:13+00:00
 draft: false
 tags: ["cerebro", "psicologia", "ciencia"]
 description: "9 Coisas que Seu Cerebro Faz Sem Voce Perceber"
+
+cover:
+  image: "https://images.pexels.com/photos/20520741/pexels-photo-20520741.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  alt: "9 Coisas que Seu Cerebro Faz Sem Voce Perceber"
+  hidden: false
 ---
 
 Seu cerebro trabalha 24 horas por dia fazendo coisas incriveis nos bastidores. Descubra 9 delas.
