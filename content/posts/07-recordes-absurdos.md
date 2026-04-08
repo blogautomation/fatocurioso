@@ -6,7 +6,7 @@ tags: ["recordes", "curiosidades", "guinness"]
 description: "12 Recordes Mundiais Tao Absurdos que Parecem Mentira"
 
 cover:
-  image: "https://images.pexels.com/photos/36729922/pexels-photo-36729922.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  image: "https://images.pexels.com/photos/9611513/pexels-photo-9611513.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   alt: "12 Recordes Mundiais Tao Absurdos que Parecem Mentira"
   hidden: false
 ---
