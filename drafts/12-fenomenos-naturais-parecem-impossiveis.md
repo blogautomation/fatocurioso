@@ -6,7 +6,7 @@ tags: ["natureza", "fenomenos", "ciencia", "curiosidades"]
 description: "12 Fenomenos Naturais Tao Estranhos Que Parecem Impossiveis"
 
 cover:
-  image: "https://images.pexels.com/photos/5661290/pexels-photo-5661290.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  image: "https://images.pexels.com/photos/13223339/pexels-photo-13223339.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   alt: "12 Fenomenos Naturais Tao Estranhos Que Parecem Impossiveis"
   hidden: false
 ---
