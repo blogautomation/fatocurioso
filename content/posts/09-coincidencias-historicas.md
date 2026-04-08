@@ -6,7 +6,7 @@ tags: ["historia", "coincidencias", "fatos"]
 description: "8 Coincidencias Historicas Tao Incriveis que Parecem Invencao"
 
 cover:
-  image: "https://images.pexels.com/photos/17270458/pexels-photo-17270458.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  image: "https://images.pexels.com/photos/13651125/pexels-photo-13651125.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   alt: "8 Coincidencias Historicas Tao Incriveis que Parecem Invencao"
   hidden: false
 ---
