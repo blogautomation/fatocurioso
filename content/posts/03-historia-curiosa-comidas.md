@@ -4,6 +4,11 @@ date: 2026-03-30T15:57:22+00:00
 draft: false
 tags: ["historia", "comida", "curiosidades"]
 description: "A Origem Surpreendente de 8 Comidas do Dia a Dia"
+
+cover:
+  image: "https://images.pexels.com/photos/5548209/pexels-photo-5548209.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  alt: "A Origem Surpreendente de 8 Comidas do Dia a Dia"
+  hidden: false
 ---
 
 Voce come essas coisas todos os dias, mas provavelmente nao sabe como foram inventadas. Prepare-se para se surpreender.
