@@ -4,6 +4,11 @@ date: 2026-01-01T00:00:00+00:00
 draft: false
 tags: ["cerebro", "ilusoes", "neurociencia", "percepcao"]
 description: "Como Seu Cerebro Te Engana: A Ciencia Por Tras das Ilusoes de Otica"
+
+cover:
+  image: "https://images.pexels.com/photos/7430266/pexels-photo-7430266.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  alt: "Como Seu Cerebro Te Engana: A Ciencia Por Tras das Ilusoes de Otica"
+  hidden: false
 ---
 
 Voce confia nos seus olhos? Nao deveria. Seu cerebro nao mostra a realidade como ela e. Ele mostra uma interpretacao da realidade, e essa interpretacao esta errada com mais frequencia do que voce imagina. Ilusoes de otica provam isso de forma espetacular.
