@@ -4,6 +4,11 @@ date: 2026-01-01T00:00:00+00:00
 draft: false
 tags: ["natureza", "fenomenos", "ciencia", "curiosidades"]
 description: "12 Fenomenos Naturais Tao Estranhos Que Parecem Impossiveis"
+
+cover:
+  image: "https://images.pexels.com/photos/5661290/pexels-photo-5661290.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  alt: "12 Fenomenos Naturais Tao Estranhos Que Parecem Impossiveis"
+  hidden: false
 ---
 
 A natureza e muito mais estranha do que qualquer ficcao. Existem fenomenos ao redor do mundo que parecem saidos de filmes de fantasia, mas sao completamente reais e documentados pela ciencia.
