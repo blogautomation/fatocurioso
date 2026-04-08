@@ -6,7 +6,7 @@ tags: ["ciencia", "experimentos", "historia", "curiosidades"]
 description: "Os 10 Experimentos Cientificos Mais Loucos Ja Realizados na Historia"
 
 cover:
-  image: "https://images.pexels.com/photos/3806749/pexels-photo-3806749.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  image: "https://images.pexels.com/photos/9629691/pexels-photo-9629691.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   alt: "Os 10 Experimentos Cientificos Mais Loucos Ja Realizados na Historia"
   hidden: false
 ---
