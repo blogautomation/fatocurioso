@@ -4,6 +4,11 @@ date: 2026-04-04T14:04:29+00:00
 draft: false
 tags: ["sonhos", "cerebro", "ciencia"]
 description: "Por Que Sonhamos? 7 Fatos Cientificos Sobre os Sonhos"
+
+cover:
+  image: "https://images.pexels.com/photos/20190320/pexels-photo-20190320.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  alt: "Por Que Sonhamos? 7 Fatos Cientificos Sobre os Sonhos"
+  hidden: false
 ---
 
 Passamos cerca de 6 anos da vida sonhando, mas ainda sabemos pouco sobre por que isso acontece.
