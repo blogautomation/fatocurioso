@@ -6,7 +6,7 @@ tags: ["animais", "ciencia", "natureza"]
 description: "7 Animais com Superpoderes que Parecem Ficção"
 
 cover:
-  image: "https://images.pexels.com/photos/29831467/pexels-photo-29831467.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  image: "https://images.pexels.com/photos/35608402/pexels-photo-35608402.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   alt: "7 Animais com Superpoderes que Parecem Ficção"
   hidden: false
 ---
