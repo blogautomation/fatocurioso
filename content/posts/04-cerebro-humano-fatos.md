@@ -6,7 +6,7 @@ tags: ["cerebro", "psicologia", "ciencia"]
 description: "9 Coisas que Seu Cerebro Faz Sem Voce Perceber"
 
 cover:
-  image: "https://images.pexels.com/photos/20520741/pexels-photo-20520741.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  image: "https://images.pexels.com/photos/31300793/pexels-photo-31300793.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   alt: "9 Coisas que Seu Cerebro Faz Sem Voce Perceber"
   hidden: false
 ---
