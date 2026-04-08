@@ -4,6 +4,11 @@ date: 2026-03-28T14:04:21+00:00
 draft: false
 tags: ["animais", "ciencia", "natureza"]
 description: "7 Animais com Superpoderes que Parecem Ficção"
+
+cover:
+  image: "https://images.pexels.com/photos/29831467/pexels-photo-29831467.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  alt: "7 Animais com Superpoderes que Parecem Ficção"
+  hidden: false
 ---
 
 A natureza criou animais com habilidades tao incriveis que parecem saidos de filmes de super-herois.
