@@ -6,7 +6,7 @@ tags: ["historia", "comida", "curiosidades"]
 description: "A Origem Surpreendente de 8 Comidas do Dia a Dia"
 
 cover:
-  image: "https://images.pexels.com/photos/5548209/pexels-photo-5548209.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  image: "https://images.pexels.com/photos/36090531/pexels-photo-36090531.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   alt: "A Origem Surpreendente de 8 Comidas do Dia a Dia"
   hidden: false
 ---
