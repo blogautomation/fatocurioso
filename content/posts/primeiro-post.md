@@ -4,6 +4,11 @@ date: 2026-03-27T10:00:00-03:00
 draft: false
 tags: ["fatocurioso"]
 description: "10 Fatos Surpreendentes Sobre o Corpo Humano"
+
+cover:
+  image: "https://images.pexels.com/photos/36507928/pexels-photo-36507928.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  alt: "10 Fatos Surpreendentes Sobre o Corpo Humano"
+  hidden: false
 ---
 
 O corpo humano e uma maquina incrivel cheia de curiosidades que a maioria das pessoas desconhece. Confira 10 fatos que vao te surpreender.
