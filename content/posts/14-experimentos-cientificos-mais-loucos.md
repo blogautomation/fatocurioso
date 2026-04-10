@@ -1,6 +1,6 @@
 ---
 title: "Os 10 Experimentos Cientificos Mais Loucos Ja Realizados na Historia"
-date: 2026-01-01T00:00:00+00:00
+date: 2026-04-10T14:43:27+00:00
 draft: false
 tags: ["ciencia", "experimentos", "historia", "curiosidades"]
 description: "Os 10 Experimentos Cientificos Mais Loucos Ja Realizados na Historia"
