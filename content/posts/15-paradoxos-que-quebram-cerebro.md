@@ -1,6 +1,6 @@
 ---
 title: "7 Paradoxos Que Vao Quebrar Seu Cerebro (e a Ciencia Nao Resolveu)"
-date: 2026-01-01T00:00:00+00:00
+date: 2026-04-11T14:06:57+00:00
 draft: false
 tags: ["filosofia", "logica", "paradoxos", "ciencia"]
 description: "7 Paradoxos Que Vao Quebrar Seu Cerebro (e a Ciencia Nao Resolveu)"
