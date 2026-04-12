@@ -1,6 +1,6 @@
 ---
 title: "Como Seu Cerebro Te Engana: A Ciencia Por Tras das Ilusoes de Otica"
-date: 2026-01-01T00:00:00+00:00
+date: 2026-04-12T14:10:32+00:00
 draft: false
 tags: ["cerebro", "ilusoes", "neurociencia", "percepcao"]
 description: "Como Seu Cerebro Te Engana: A Ciencia Por Tras das Ilusoes de Otica"
