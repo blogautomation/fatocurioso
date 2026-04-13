@@ -1,6 +1,6 @@
 ---
 title: "As Linguagens Mais Estranhas do Mundo Que Voce Nao Vai Acreditar Que Existem"
-date: 2026-01-01T00:00:00+00:00
+date: 2026-04-13T16:40:37+00:00
 draft: false
 tags: ["linguagem", "cultura", "curiosidades", "comunicacao"]
 description: "As Linguagens Mais Estranhas do Mundo Que Voce Nao Vai Acreditar Que Existem"
