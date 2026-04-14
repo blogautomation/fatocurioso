@@ -1,6 +1,6 @@
 ---
 title: "10 Mitos Cientificos Que Quase Todo Mundo Ainda Acredita em 2026"
-date: 2026-01-01T00:00:00+00:00
+date: 2026-04-14T15:57:10+00:00
 draft: false
 tags: ["mitos", "ciencia", "educacao", "fatos"]
 description: "10 Mitos Cientificos Que Quase Todo Mundo Ainda Acredita em 2026"
