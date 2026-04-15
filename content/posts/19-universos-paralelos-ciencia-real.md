@@ -1,6 +1,6 @@
 ---
 title: "Universos Paralelos: Ficcao Cientifica ou Ciencia Real?"
-date: 2026-01-01T00:00:00+00:00
+date: 2026-04-15T15:54:47+00:00
 draft: false
 tags: ["fisica", "universo", "ciencia", "teoria"]
 description: "Universos Paralelos: Ficcao Cientifica ou Ciencia Real?"
