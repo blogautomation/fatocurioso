@@ -1,6 +1,6 @@
 ---
 title: "8 Grandes Descobertas Arqueologicas Que Foram Completamente Acidentais"
-date: 2026-01-01T00:00:00+00:00
+date: 2026-04-16T16:56:46+00:00
 draft: false
 tags: ["arqueologia", "historia", "descobertas", "acidental"]
 description: "8 Grandes Descobertas Arqueologicas Que Foram Completamente Acidentais"
