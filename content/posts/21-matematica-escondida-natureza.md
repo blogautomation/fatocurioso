@@ -1,6 +1,6 @@
 ---
 title: "A Matematica Escondida na Natureza Que Voce Nunca Percebeu"
-date: 2026-01-01T00:00:00+00:00
+date: 2026-04-17T15:41:30+00:00
 draft: false
 tags: ["matematica", "natureza", "padroes", "ciencia"]
 description: "A Matematica Escondida na Natureza Que Voce Nunca Percebeu"
